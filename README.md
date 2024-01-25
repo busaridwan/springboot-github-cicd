@@ -4,3 +4,4 @@ This is a simple project demo teaching students Continous Integration and Contin
 ## A Step by Step Guide to Deploy Your Springboot application via CI/CD Configuration. 
 
 1. Dockerfile
+2. Workflows
